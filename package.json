@@ -1,0 +1,25 @@
+{
+  "name": "@egosbr/gem-hunter-skill",
+  "version": "1.0.0",
+  "description": "Opportunity discovery engine for web3 + emerging tech",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test dist/test.js"
+  },
+  "keywords": [
+    "gem-hunter",
+    "discovery",
+    "web3",
+    "opportunities",
+    "signals",
+    "trend-detection"
+  ],
+  "author": "Enio Rocha <enioxt@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enioxt/gem-hunter-skill.git"
+  }
+}
