@@ -1,3 +1,6 @@
+> 🌐 **Parte do ecossistema / Part of the [EGOS](https://egos.ia.br) · [CINCO](https://cinco.ia.br) ecosystem.**
+> Mapa geral e por onde começar / general map & where to start: **[github.com/enioxt](https://github.com/enioxt)** · Kit aberto (MIT): [cinco.ia.br/kit](https://cinco.ia.br/kit/)
+
 # @egosbr/gem-hunter-skill
 
 **Opportunity discovery engine for web3 + emerging tech** — Hybrid search, multi-source aggregation, and signal ranking for real-time trend detection.
