@@ -1,5 +1,10 @@
-> 🌐 **Parte do ecossistema / Part of the [EGOS](https://egos.ia.br) · [CINCO](https://cinco.ia.br) ecosystem.**
-> Mapa geral e por onde começar / general map & where to start: **[github.com/enioxt](https://github.com/enioxt)** · Kit aberto (MIT): [cinco.ia.br/kit](https://cinco.ia.br/kit/)
+> **MIGRAÇÃO EGOS — 2026-10-01**
+> Este repositório não é mais uma unidade canônica do EGOS.
+> Nenhum roadmap, status, porta de entrada ou intenção futura vive aqui.
+> O conteúdo válido está sendo absorvido por:
+> - público compartilhável: [github.com/enioxt/cinco](https://github.com/enioxt/cinco) (site: [cinco.ia.br](https://cinco.ia.br))
+> - o núcleo do EGOS é privado e não faz parte deste repositório.
+> Até a migração terminar, este repositório é somente fonte histórica.
 
 # @egosbr/gem-hunter-skill
 
@@ -186,7 +191,7 @@ Each phase is independent, allowing parallel execution and graceful degradation 
 
 ## Real-world usage
 
-Used in production at [EGOS Framework](https://github.com/enioxt/egos) (open-source, in active development) to drive the `/gem-hunter` command and the [World Model](https://github.com/enioxt/egos/docs/strategy/WORLD_MODEL.md) capability signals.
+Used in the EGOS core, which is private. The public part lives in [enioxt/cinco](https://github.com/enioxt/cinco).
 
 ---
 
@@ -200,4 +205,4 @@ MIT — part of the EGOS ecosystem.
 
 - [Guard Brasil](https://github.com/enioxt/guard-brasil-skill) — AI safety layer
 - [Governance Skill](https://github.com/enioxt/egos-governance-skill) — Evidence-driven governance
-- [EGOS Framework](https://github.com/enioxt/egos) — Full orchestration kernel
+- EGOS (núcleo privado) — [parte pública em enioxt/cinco](https://github.com/enioxt/cinco)
